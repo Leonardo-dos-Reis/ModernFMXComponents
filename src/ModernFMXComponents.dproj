@@ -114,7 +114,8 @@
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
         <DCCReference Include="rtl.dcp"/>
-        <DCCReference Include="CustomComponents.TRectangleHoverButton.pas"/>
+        <DCCReference Include="CustomComponents.RectangleHoverButton.pas"/>
+        <DCCReference Include="CustomComponents.RoundedEdit.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

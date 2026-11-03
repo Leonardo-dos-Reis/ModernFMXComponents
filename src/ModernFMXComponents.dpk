@@ -31,6 +31,7 @@ requires
   rtl;
 
 contains
-  CustomComponents.TRectangleHoverButton in 'CustomComponents.TRectangleHoverButton.pas';
+  CustomComponents.RectangleHoverButton in 'CustomComponents.RectangleHoverButton.pas',
+  CustomComponents.RoundedEdit in 'CustomComponents.RoundedEdit.pas';
 
 end.

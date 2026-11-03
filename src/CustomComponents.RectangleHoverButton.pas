@@ -1,4 +1,4 @@
-unit CustomComponents.TRectangleHoverButton;
+unit CustomComponents.RectangleHoverButton;
 
 interface
 
