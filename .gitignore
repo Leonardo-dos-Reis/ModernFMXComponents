@@ -1,0 +1,39 @@
+# Delphi compiler output
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.drc
+*.identcache
+*.local
+*.stat
+
+# Delphi IDE settings
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.projdata
+*.tvsconfig
+
+# Build directories
+Win32/
+Win64/
+Android/
+iOSDevice/
+iOSSimulator/
+Linux64/
+OSX64/
+OSXARM64/
+
+# Backup and temporary files
+*.~*
+*.bak
+*.tmp
+*.orig
+*.log
+
+# User-specific IDE files
+*.skincfg
+__history/
